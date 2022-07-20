@@ -1,0 +1,78 @@
+[*] Launching Script ...
+[*] Loading Proxies
+[+] Loaded 501 Succesfully
+[+] Master process listening at 127.0.0.1:8080
+[+] Incoming connection ...
+Launched Sub-process PID # 1896
+[+] Worker 1896 Got These Args 154.92.115.172:6171
+[+] Incoming connection ...
+[+] Incoming connection ...
+Launched Sub-process PID # 4744
+Launched Sub-process PID # 7388
+[+] Worker 4744 Got These Args 154.92.118.195:5408
+[+] Incoming connection ...
+[+] Worker 7388 Got These Args 154.92.115.146:6145
+[+] Worker 1896 connected to the Master through socket.
+Launched Sub-process PID # 5868
+[+] Worker 5868 Got These Args 154.92.118.244:5457
+[+] Incoming connection ...
+[+] Worker 4744 connected to the Master through socket.
+[+] Worker 7388 connected to the Master through socket.
+[+] Worker 5868 connected to the Master through socket.
+Launched Sub-process PID # 11296
+[+] Incoming connection ...
+[+] Worker 11296 Got These Args 154.92.118.215:5428
+Launched Sub-process PID # 9572
+[+] Worker 9572 Got These Args 154.92.113.23:5348
+[+] Worker 11296 connected to the Master through socket.
+[+] Worker 9572 connected to the Master through socket.
+[+] Worker 11296 returned.
+[+] Worker 11296 sent return to Master process.
+[+] From worker # 11296
+[+] Worker 9572 returned.
+[+] Worker 9572 sent return to Master process.
+[+] Worker 4744 returned.
+[+] Worker 4744 sent return to Master process.
+┌─────────┬──────────────────┐
+│ (index) │      Values      │
+├─────────┼──────────────────┤
+│  Orign  │ '154.92.118.215' │
+└─────────┴──────────────────┘
+[+] Worker 1896 returned.
+[+] From worker # 9572
+[+] Worker 5868 returned.
+[+] Worker 1896 sent return to Master process.
+┌─────────┬─────────────────┐
+│ (index) │     Values      │
+├─────────┼─────────────────┤
+│  Orign  │ '154.92.113.23' │
+└─────────┴─────────────────┘
+[+] Worker 5868 sent return to Master process.
+[+] From worker # 4744
+┌─────────┬──────────────────┐
+│ (index) │      Values      │
+├─────────┼──────────────────┤
+│  Orign  │ '154.92.118.195' │
+└─────────┴──────────────────┘
+[+] From worker # 1896
+┌─────────┬──────────────────┐
+│ (index) │      Values      │
+├─────────┼──────────────────┤
+│  Orign  │ '154.92.115.172' │
+└─────────┴──────────────────┘
+[+] From worker # 5868
+┌─────────┬──────────────────┐
+│ (index) │      Values      │
+├─────────┼──────────────────┤
+│  Orign  │ '154.92.118.244' │
+└─────────┴──────────────────┘
+[+] Worker 7388 returned.
+[+] Worker 7388 sent return to Master process.
+[+] From worker # 7388
+┌─────────┬──────────────────┐
+│ (index) │      Values      │
+├─────────┼──────────────────┤
+│  Orign  │ '154.92.115.146' │
+└─────────┴──────────────────┘
+[+] Finished Scrapping Players
+[*] Last Save. Exit Code ...
